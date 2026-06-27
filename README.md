@@ -1,0 +1,1 @@
+It is a simulation of processing a image and creating a image from the random function and showing stats for the image and adjusting brightness and contrast by using the internal function of numpy library like mean and standard deviation (This holds for the v1) 
