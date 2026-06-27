@@ -11,5 +11,6 @@ print(f"\n contrast: {np.std(image)}")
 brighter=np.clip(image + 50, 0 ,255)
 print(f'\n brightness increased by {np.mean(brighter):.2f}')
 
+# For increase in contrast we multiply
 contrast=np.clip(image * 50, 0, 255)
 print(f'\n contrast increased by {np.std(contrast):.2f} \n')
