@@ -1,8 +1,10 @@
 It is a simulation of processing a image and creating a image from the random function and showing stats for the image and adjusting brightness and contrast by using the internal function of numpy library like mean and standard deviation (This holds for the v1) 
-## Features
-- Generates a random grayscale image using NumPy
-- Calculates image brightness
-- Calculates image contrast
+## Features in the sim v1
+- Brightness adjustment
+- Contrast adjustment
+
+## Features in the sim v2
+- Read actual images using OpenCV/Pillow
 - Brightness adjustment
 - Contrast adjustment
 
@@ -12,4 +14,4 @@ It is a simulation of processing a image and creating a image from the random fu
 - Thresholding
 - Gaussian Blur
 - Edge Detection
-- Read actual images using OpenCV/Pillow
+
